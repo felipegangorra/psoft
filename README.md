@@ -1,4 +1,4 @@
 # Projeto de Software - Psoft
-Repositório da disciplina de Projeto de Software contendo todos as atividades e práticas realizadas durante o curso.
+Repositório dedicado as atividades e práticas realizadas durante o curso da disciplina de Projeto de Software (Psoft).
 
 > Linguagem: Java
